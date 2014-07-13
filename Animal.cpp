@@ -5,7 +5,7 @@ using namespace std;
 Animal::Animal(int weight,int height)
 {
 
-};
+}
 void Animal::eat()
 {
     cout<<"animal eat"<<endl;
