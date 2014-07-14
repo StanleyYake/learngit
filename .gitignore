@@ -1,7 +1,11 @@
  *.[oa]
  *~
+ *.cbp
+ bin/
+ obj/
  build/
  class_h/
  plugins/
  static/bin
  static/obj
+ 
