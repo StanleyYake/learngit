@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1405255031 source:e:\dev_cpp_woking\fish.cpp
+	"fish.h"
+	<iostream>
+
+1405257695 source:e:\code_blocks_working\class_h\main.cpp
+	<iostream>
+	"Animal.h"
+	"fish.h"
+
+1405243873 source:e:\dev_cpp_woking\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1405240649 e:\dev_cpp_woking\animal.h
+
+1405255002 e:\dev_cpp_woking\fish.h
+	"Animal.h"
+
+1405260995 source:e:\code_blocks_working\class_h\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1405257647 e:\code_blocks_working\class_h\animal.h
+
+1405260989 source:e:\code_blocks_working\class_h\fish.cpp
+	"fish.h"
+	<iostream>
+
+1405257647 e:\code_blocks_working\class_h\fish.h
+	"Animal.h"
+
